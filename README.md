@@ -1,6 +1,4 @@
-![HerrErde's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrErde&show_icons=true&theme=blue-green)
-
-![HerrErde's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![HerrErde's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrErde&show_icons=true&theme=blue-green&show_icons=true)
 
 [![HerrErde's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrErde)](https://github.com/HerrErde/HerrErde.github.io)
 
