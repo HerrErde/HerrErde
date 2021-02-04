@@ -10,8 +10,8 @@
 | Name | Geschlecht Einführung | Link |
 |------|------|-----------|
 | HerrErde-Bot | Der vielseitige Discord-Bot für Ihren Server! | Github: https://github.com/HerrErde/HerrErde-Bot `Privat` |
-|                   |                                 |
-|                   |                                 |
-|                   |                                 |
-|                   |                                 |
-|                   |                                 |
+|              |                                 |
+|              |                                 |
+|              |                                 |
+|              |                                 |
+|              |                                 |
