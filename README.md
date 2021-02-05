@@ -2,7 +2,9 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=HerrErde.github.io&show_icons=true&theme=blue-green)](https://github.com/HerrErde/HerrErde.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=HerrErde.github.io&show_icons=true&theme=blue-green)](https://github.com/HerrErde/HerrErde.github.io) <a href="https://discord.com/invite/YxxMy7H">
+  <img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner2" title="Discord Server"/>
+</a>
 
 
 
