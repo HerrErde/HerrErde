@@ -6,7 +6,7 @@
   <img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner2" title="Discord Server"/>
 </a>
 
-
+<img src="https://komarev.com/ghpvc/?username=HerrErde&color=blueviolet">
 
 # Einige Meiner Projekte
 | Name | Einführung | Link |
