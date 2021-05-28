@@ -12,7 +12,7 @@
 | Name | Einführung | Link |
 |------|------|-----------|
 | HerrErde-Bot | Der vielseitige Discord-Bot für Ihren Server! | https://github.com/HerrErde/HerrErde-Bot `Privat` |
-|HerrErde.github.io | Meine Website | Github: https://github.com/HerrErde/HerrErde.github.io |
+|HerrErde.github.io | Meine Website | https://github.com/HerrErde/HerrErde.github.io |
 |MineErde.github.io | Website Meines MC Servers  | https://github.com/HerrErde/MineErde.github.io |
 |Snek          | Ein kleiner Snake Screensaver   | https://github.com/HerrErde/snek |
 |              |                                 |
