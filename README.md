@@ -2,11 +2,13 @@
 
 ![Metrics](https://metrics.lecoq.io/HerrErde?template=classic&config.timezone=Europe%2FBerlin)
 
-
-
 <a href="https://discord.com/invite/YxxMy7H">
   <img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner2" title="Discord Server"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrErde&layout=compact&theme=blue-green)](https://github.com/HerrErde)
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000)
 
