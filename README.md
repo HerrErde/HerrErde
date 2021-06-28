@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrErde&layout=compact&theme=blue-green)](https://github.com/HerrErde)
 
-
+![HerrErde's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrErde&show_icons=true&theme=blue-green)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000)
 
