@@ -6,7 +6,8 @@
   <summary><b>Top</b> Languages</summary>  <img align="right" src="https://wakatime.com/share/@HerrErde/edbcd2f4-ec82-43ea-b3ae-045abc673052.svg">
 </details>
 
-  <b>GitHub</b> Activity</summary>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerrErde&layout=compact&theme=blue-green"><img align="left" src="https://github-readme-stats.vercel.app/api?username=HerrErde&show_icons=true&theme=blue-green"><img align="down" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
+  <b>GitHub</b> Activity</summary>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerrErde&layout=compact&theme=blue-green"><img align="left" src="https://github-readme-stats.vercel.app/api?username=HerrErde&show_icons=true&theme=blue-green"><img align="down" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
 
 <a href="https://discord.com/invite/YxxMy7H">
   <img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner2" title="Discord Server"/>
