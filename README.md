@@ -12,16 +12,12 @@
 </p>
 <div>
   
-<img align="down" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
  
 
 <a href="https://discord.com/invite/YxxMy7H">
-  <img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner2" title="Discord Server"/>
+  <img align="up" src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner4" title="Discord Server"/>
 </a>
-
-
-
-
 
 
 
