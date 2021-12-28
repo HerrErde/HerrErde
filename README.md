@@ -24,9 +24,9 @@
 # Einige Meiner Projekte
 | Name | Einführung | Link |
 |------|------|-----------|
-| HerrErde-Bot | Der vielseitige Discord-Bot für Ihren Server! | https://github.com/HerrErde/HerrErde-Bot `Privat` |
-|HerrErde.github.io | Meine Website | https://github.com/HerrErde/HerrErde.github.io |
-|MineErde.github.io | Website Meines MC Servers  | https://github.com/HerrErde/MineErde.github.io |
-|                   |                            |                             |
-|                   |                            |                             |
+| HerrErde-Bot    | Der vielseitige Discord-Bot für Ihren Server! | https://github.com/HerrErde/HerrErde-Bot `Privat` |
+| dev.herrerde.cf | Meine Website | https://github.com/HerrErde/HerrErde.github.io |
+| HerrErde.cf     | Website Meines MC Servers | https://github.com/HerrErde/MineErde.github.io |
+|                 |                            |                             |
+|                 |                            |                             |
 
