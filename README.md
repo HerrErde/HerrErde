@@ -1,11 +1,12 @@
 ## My Github Stats:
 
-<p align="center"><img align="center" src="https://metrics.lecoq.io/HerrErde?template=classic&config.timezone=Europe%2FBerlin"
+<p align="center"><img align="center" src="https://metrics.lecoq.io/HerrErde?template=classic&config.timezone=Europe%2FBerlin">
 
-  
-<a href="https://discord.com/invite/YxxMy7H">
-  <p align="center"><img align="center" src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner4"/>
-</a>
+                       
+<p align="center">
+  <a <a href="https://discord.com/invite/YxxMy7H"><img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner4"/></a>
+  </p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
  
