@@ -8,7 +8,7 @@
   </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
  
 
 
