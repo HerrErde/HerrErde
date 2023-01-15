@@ -1,25 +1,18 @@
 ## My Github Stats:
 
-<p align="center"><img align="center" src="https://metrics.lecoq.io/HerrErde?template=classic&config.timezone=Europe%2FBerlin">
-
-                       
 <p align="center">
-  <a <a href="https://discord.com/invite/YxxMy7H"><img src="https://discordapp.com/api/guilds/558018484995489822/embed.png?style=banner4"/></a>
+  <a <a href="https://discord.herrerde.cf/"><img src="https://discord.com/api/guilds/558018484995489822/embed.png?style=banner4"/></a>
   </p>
 
-
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=HerrErde&theme=dark&hide_border=true&background=000000">
- 
-
-
-
 
 <details>
     <summary>Stats</summary>
   <b>
 <div>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrerde&layout=compact&theme=dark"></p>
-                         
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=herrerde&show_icons=true&theme=dark"></p>
 
 <div>
@@ -31,14 +24,9 @@
 </details>
 
 # Einige Meiner Projekte
-| Name | Einführung | Link |
-|------|------|-----------|
-| HerrErde-Bot    | Der vielseitige Discord-Bot für Ihren Server! | https://github.com/HerrErde/HerrErde-Bot `Privat` |
-| dev.herrerde.cf | Meine Website | https://github.com/HerrErde/HerrErde.github.io |
-| HerrErde.cf     | Website Meines MC Servers | https://github.com/HerrErde/MineErde.github.io |
-|                 |                            |                             |
-|                 |                            |                             |
 
-
-
-
+| Name            | Einführung                                    | Link                                              |
+| --------------- | --------------------------------------------- | ------------------------------------------------- |
+| SubwayBooster   | Hacking Files für SubwaySurfers               | https://github.com/HerrErde/SubwayBooster         |
+| dev.herrerde.cf | Meine Website                                 | https://github.com/HerrErde/HerrErde.github.io    |
+| HerrErde.cf     | Website Meines MC Servers                     | https://github.com/HerrErde/MineErde.github.io    |
