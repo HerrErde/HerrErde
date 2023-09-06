@@ -33,7 +33,9 @@ Occasionally existing
 <br>
 <p>
   <img align="center" src="https://hits-app.vercel.app/hits?url=https://github.com/herrerde&label=visits" alt="Profile Visits">
-  <img align="center" src="https://wakatime.com/badge/user/0c3ebeea-dd83-4ece-8bf2-83739753a8f3.svg" alt="Wakatime" />
+  <a href="https://wakatime.com/@HerrErde">
+    <img align="center" src="https://wakatime.com/badge/user/0c3ebeea-dd83-4ece-8bf2-83739753a8f3.svg" alt="Wakatime" />
+  </a>
 </p>
 
 ## I'm just some Developer
@@ -43,9 +45,15 @@ Occasionally existing
 
 ## Projects
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=SubwayBooster&theme=tokyonight" alt="Readme Card">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=subway-source&theme=tokyonight" alt="Readme Card">
 
+<a href="https://github.com/herrerde/SubwayBooster">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=SubwayBooster&theme=tokyonight" alt="Readme Card">
+</a>
+
+<a href="https://github.com/herrerde/subway-source">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrErde&repo=subway-source&theme=tokyonight" alt="Readme Card">
+</a>
+<br><br>
 <details>
   <summary>Github Stats</summary>
   <div>
