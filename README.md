@@ -28,11 +28,11 @@ Occasionally existing
 </a>
 
 <a href="https://twitter.com/Herr_Erde">
-  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/twitter">
+  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/x">
 </a>
 <br>
 <p>
-  <img align="center" src="https://hits-app.vercel.app/hits?url=https://github.com/herrerde&label=visits" alt="Profile Visits">
+  <img align="center" src="https://komarev.com/ghpvc/?username=herrerde" alt="Profile Visits">
   <a href="https://wakatime.com/@HerrErde">
     <img align="center" src="https://wakatime.com/badge/user/0c3ebeea-dd83-4ece-8bf2-83739753a8f3.svg" alt="Wakatime" />
   </a>
