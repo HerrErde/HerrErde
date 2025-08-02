@@ -28,7 +28,7 @@ Occasionally existing
 </a>
 
 <a href="https://twitter.com/Herr_Erde">
-  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/x">
+  <img align="left" alt="Twitter" width="23px" src="https://img.icons8.com/?size=256&id=5MQ0gPAYYx7a&format=png">
 </a>
 <br>
 <p>
